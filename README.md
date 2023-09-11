@@ -1,4 +1,5 @@
 # HR-Dashboard-MySQL-PowerBI
+<img width="599" alt="HR Employee distribution report screenshot" src="https://github.com/datamugger/HR-Employee-Distribution-MySQL-PowerBI/assets/127864551/b1f30b60-2483-4483-8081-6fa9b5c39026">
 
 ## Data Used
 
